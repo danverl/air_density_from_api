@@ -1,0 +1,6 @@
+title = "Location data"
+
+[location]
+lat = "59.12106165717799"
+long = "9.626276457512715"
+alt = "10"
